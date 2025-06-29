@@ -1,0 +1,18 @@
+Clinical Trial Eligibility Criteria:
+
+- Age between 40 and 65 years inclusive
+- BMI less than 30
+- No history of cancer
+- No uncontrolled chronic illnesses
+
+Important instruction:
+For this trial, well-managed chronic illnesses like diabetes DO NOT count as uncontrolled chronic illnesses and do NOT exclude the patient.
+
+Patient Summary:
+The patient is 58 years old, BMI is 28.5, has well-managed diabetes, and no cancer history.
+
+Question:
+Is this patient Eligible or Not Eligible? Answer only "Eligible" or "Not Eligible" and explain briefly.
+
+Expected Output:
+Eligible. With the updated information, the patient meets all eligibility criteria: age (58 within 40-65), BMI (28.5 under 30), no cancer history, and well-managed diabetes (not considered uncontrolled).
