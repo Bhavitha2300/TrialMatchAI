@@ -1,0 +1,15 @@
+Clinical Trial Eligibility Criteria:
+
+- Age between 40 and 65 years inclusive
+- BMI less than 30
+- No history of cancer
+- No uncontrolled chronic illnesses
+
+Patient Summary:
+The patient is 67 years old, BMI is 28, no cancer history, and no chronic illnesses.
+
+Question:
+Is this patient Eligible or Not Eligible? Answer only "Eligible" or "Not Eligible" and explain briefly.
+
+Expected Output:
+Not Eligible. The patient is 67 years old, which exceeds the upper age limit of 65, making them ineligible despite meeting the other criteria.
